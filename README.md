@@ -15,7 +15,7 @@ InvoGen is a modern, responsive React-based invoice generator application. It he
 
 🛠️ Tech Stack
 
-- Frontend: React, HTML5, CSS3
+- Frontend: js, HTML5, CSS3
 - PDF Generation: `react-to-print` 
 - State Management: useState, useEffect
 
